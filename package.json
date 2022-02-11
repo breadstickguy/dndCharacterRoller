@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "jest": "^25.1.0",
-    "karma": "^4.4.1"
+    "karma": "^6.3.14"
   }
 }
